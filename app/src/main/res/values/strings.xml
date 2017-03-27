@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Puzzle-Paper</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="you">You</string>
+    <string name="auto">Auto Player</string>
+    <string name="score">Score</string>
+</resources>

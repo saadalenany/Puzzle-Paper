@@ -5,4 +5,5 @@
     <string name="you">You</string>
     <string name="auto">Auto Player</string>
     <string name="score">Score</string>
+    <string name="tries">#Tries</string>
 </resources>
